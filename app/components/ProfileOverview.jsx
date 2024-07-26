@@ -21,7 +21,7 @@ const ProfileOverview = () => {
                 className="rounded-full border-2 border-slate-400" />
                 <h1 className="text-2xl font-bold">{PROFILE.name}</h1>
                 <p className="tracking-lighter">{PROFILE.city}</p>
-                <a href="/abdullah.pdf"
+                <a href="/AbdullahCV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 download

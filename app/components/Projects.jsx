@@ -7,7 +7,7 @@ const Projects = () => {
     <div>
       <h2 className="my-12 text-center text-2xl font-semibold uppercase
       tracking-wide text-slate-200">
-        Projects
+        Projects (So far)
       </h2>
       <div className="flex flex-wrap items-center justify-center gap-2">
         {PROJECTS.map((project, index) => (

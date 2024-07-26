@@ -3,8 +3,8 @@ import company2 from "../../public/c2.jpeg";
 import company3 from "../../public/c3.jpeg";
 import company4 from "../../public/c4.jpeg";
 
-import project1 from "../../public/project1.jpeg";
-import project2 from "../../public/project2.jpeg";
+import project1 from "../../public/calculator-app.png";
+import project2 from "../../public/ss.png";
 import project3 from "../../public/project3.jpeg";
 import project4 from "../../public/project4.jpeg";
 
@@ -18,23 +18,14 @@ export const PROJECTS = [
   {
     name: "Project 1",
     image: project1,
-    url: "https://github.com/abduwu8/Portfolio.",
+    url: "https://github.com/abduwu8/Calculator.",
   },
   {
     name: "Project 2",
     image: project2,
-    url: "https://github.com/abduwu8/Calculator",
+    url: "https://github.com/abduwu8/shawarmasubway",
   },
-  {
-    name: "Project 3",
-    image: project3,
-    url: "https://github.com",
-  },
-  {
-    name: "Project 4",
-    image: project4,
-    url: "https://github.com",
-  },
+  
 ];
 
 export const SKILLS = [
