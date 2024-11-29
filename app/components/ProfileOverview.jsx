@@ -21,7 +21,7 @@ const ProfileOverview = () => {
                 className="rounded-full border-2 border-slate-400" />
                 <h1 className="text-2xl font-bold">{PROFILE.name}</h1>
                 <p className="tracking-lighter">{PROFILE.city}</p>
-                <a href="/AbdullahCV.pdf"
+                <a href="/AbdullahResume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 download
@@ -47,16 +47,13 @@ const ProfileOverview = () => {
             </p>
             <p className="mb-10 max-w-2xl p-1 text-center text-xl
             tracking-tight text-slate-400 lg:text-3xl">
-                I am a passionate {""}
+                A highly motivated student currently pursuing a {""}
                 <span className="border-b font-medium text-slate-200">
-                    Student
+                Bachelor of Computer Applications (BCA).    
                 </span> {""}
-                Currently Pursuing BCA with a knack for creating seamless, user-friendly web
-                applications in future. Passionate about both{""}
-                <span className="font-medium text-slate-200"> front-end </span>
-                and{""}
-                <span className="font-medium text-slate-200"> back-end </span>
-                {""} development.
+                Skilled in both front-end and back-end development, particularly with React, and eager to contribute to full-stack projects.{""}
+                <span className="font-medium text-slate-200"> Committed to continuous learning and growth in the tech field. </span>
+                {""} 
             </p>
         </motion.div>
     </div>

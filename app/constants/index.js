@@ -11,7 +11,7 @@ import project4 from "../../public/project4.jpeg";
 export const PROFILE = {
   name: "Abdullah Khan",
   city: "Mumbai , India",
-  greet: "Nice to Meet you!",
+  greet: "Hey There!",
 };
 
 export const PROJECTS = [
@@ -29,11 +29,13 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
-  "React, Angular, Vite",
-  "Node.js, Express, Django",
-  "Python, NumPy, Tailwind, .NET ",
-  "Next. js , UI/UX Designs (Figma) ",
-  "AWS, MySQL, HTML, CSS, C++",
+  "Frontend Development: React.js, Angular, Next.js, Tailwind CSS, HTML, CSS, Figma",
+  "Backend Development: Node.js, Express.js, Django, Python, .NET",
+  "Web3 Development: Web3.js, Ethereum, Smart Contracts",
+  "Database Technologies: MySQL, NumPy",
+  "Cloud Services: AWS (Amazon Web Services)",
+  "Programming Languages: JavaScript, TypeScript, Python, C++",
+  "Other Technologies: Vite, Next.js, Figma",
 ];
 
 export const EXPERIENCES = [
